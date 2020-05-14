@@ -25,3 +25,5 @@
 ```sudo yum -y install mplayer``` ή ```sudo yum -y install mpv```
 ## Σε FreeBSD Unix
 ```sudo pkg install mplayer``` ή ```sudo pkg install mpv```
+## Σε macOS (από το homebrew)
+```brew install mpv``` (δε λειτουργεί σωστά το mplayer)
